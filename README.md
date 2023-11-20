@@ -59,21 +59,21 @@ Sentiment Analysis: Sentiments of the news articles have been analyzed and categ
 
 ## Implementation in the Context of the Project
 
-Data Acquisition: Use NewsAPI to gather finance-related news articles from across Africa.
+*Data Acquisition:* Use NewsAPI to gather finance-related news articles from across Africa.
 
-Data Processing: Clean and preprocess the data, considering linguistic and contextual diversity.
+*Data Processing:* Clean and preprocess the data, considering linguistic and contextual diversity.
 
 ![news trend preview data](https://github.com/Lindelani-3/news-classification-trend-analysis/assets/99859713/640476e9-0019-4b42-a372-d75815948bdc)
 
-Analysis and Classification: Apply NLP techniques for sentiment analysis and topic classification.
+*Analysis and Classification:* Apply NLP techniques for sentiment analysis and topic classification.
 
 ![news trend preview databricks](https://github.com/Lindelani-3/news-classification-trend-analysis/assets/99859713/b0904dcf-59e5-4a2c-a5a2-20637a43b558)
 
-Visualization and Reporting: Develop dashboards to visualize trends, sentiments, and other KPIs.
+*Visualization and Reporting:* Develop dashboards to visualize trends, sentiments, and other KPIs.
 
 ![news trend preview visual](https://github.com/Lindelani-3/news-classification-trend-analysis/assets/99859713/f8fc17cf-979e-47ce-aa8b-647a49cff160)
 
-Scalability and Future Extensions: Plan for real-time data processing and integration with financial market data for deeper analysis by using Databricks, PySpark, and other related AWS Services.
+*Scalability and Future Extensions:* Plan for real-time data processing and integration with financial market data for deeper analysis by using Databricks, PySpark, and other related AWS Services.
 
 ## Technologies Used
 
@@ -82,12 +82,12 @@ Python (Pandas, NumPy, scikit-learn, Gensim, NLTK, Torch, BeautifulSoup, etc), J
 
 ## Value
 
-Investment Guidance: Utilized sentiment and trend analysis to guide investment strategies. Positive sentiment in certain financial sectors can indicate growth opportunities, while negative sentiment could signal risk.
+***Investment Guidance:*** Utilized sentiment and trend analysis to guide investment strategies. Positive sentiment in certain financial sectors can indicate growth opportunities, while negative sentiment could signal risk.
 
-Trend Forecasting: We could use historical data trends to forecast future market movements or interest areas in the financial sector, using forecsating models like AMIRA.
+***Trend Forecasting:*** We could use historical data trends to forecast future market movements or interest areas in the financial sector, using forecsating models like AMIRA.
 
-Targeted Marketing: Insights can be used to tailor marketing strategies, focusing on sectors or topics that are currently trending or have positive sentiments.
+***Targeted Marketing:*** Insights can be used to tailor marketing strategies, focusing on sectors or topics that are currently trending or have positive sentiments.
 
-Product Development: PAFI can also develop new services or products based on identified market needs or gaps revealed through trend analysis.
+***Product Development:*** PAFI can also develop new services or products based on identified market needs or gaps revealed through trend analysis.
 
-Integrate Market Data: In the future we can also incorporate financial market data (e.g., stock prices, currency rates) to correlate news sentiments with actual market movements.
+***Integrate Market Data:*** In the future we can also incorporate financial market data (e.g., stock prices, currency rates) to correlate news sentiments with actual market movements.
