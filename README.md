@@ -1,6 +1,6 @@
 # News Article Classification and Trend Analysis
 
-Let's define a hypothetical scenario for our News Article Classification and Trend Analysis project focused on the finance sector in Africa. This will include the client, their problem, the challenges addressed, business questions, and related KPIs.
+We'll define a hypothetical scenario for our News Article Classification and Trend Analysis project focused on the finance sector in Africa. This will include the client, their problem, the challenges addressed, business questions, and related KPIs.
 
 ## Client
 Client Name: Pan-African Financial Insights (PAFI)
