@@ -60,4 +60,4 @@ Analysis and Classification: Apply NLP techniques for sentiment analysis and top
 
 Visualization and Reporting: Develop dashboards to visualize trends, sentiments, and other KPIs.
 
-Scalability and Future Extensions: Plan for real-time data processing and integration with financial market data for deeper analysis.
+Scalability and Future Extensions: Plan for real-time data processing and integration with financial market data for deeper analysis by using Databricks, PySpark, and other related AWS Services.
