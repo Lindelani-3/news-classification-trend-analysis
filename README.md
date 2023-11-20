@@ -63,9 +63,15 @@ Data Acquisition: Use NewsAPI to gather finance-related news articles from acros
 
 Data Processing: Clean and preprocess the data, considering linguistic and contextual diversity.
 
+![news trend preview data](https://github.com/Lindelani-3/news-classification-trend-analysis/assets/99859713/640476e9-0019-4b42-a372-d75815948bdc)
+
 Analysis and Classification: Apply NLP techniques for sentiment analysis and topic classification.
 
+![news trend preview databricks](https://github.com/Lindelani-3/news-classification-trend-analysis/assets/99859713/b0904dcf-59e5-4a2c-a5a2-20637a43b558)
+
 Visualization and Reporting: Develop dashboards to visualize trends, sentiments, and other KPIs.
+
+![news trend preview visual](https://github.com/Lindelani-3/news-classification-trend-analysis/assets/99859713/f8fc17cf-979e-47ce-aa8b-647a49cff160)
 
 Scalability and Future Extensions: Plan for real-time data processing and integration with financial market data for deeper analysis by using Databricks, PySpark, and other related AWS Services.
 
