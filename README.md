@@ -43,11 +43,8 @@ How do financial news trends and sentiments compare between African countries an
 
 **Trend Identification:** Frequency of specific financial topics or keywords over time.
 
-**Geographical Distribution:** Number of articles and sentiment scores categorized by country or region.
-
 **Source Influence:** Engagement metrics (like shares, comments) of articles from different news sources.
 
-**Market Impact Analysis:** Correlation metrics between major news sentiments and stock market indices or currency values in Africa.
 
 
 ## Approach
