@@ -50,6 +50,14 @@ How do financial news trends and sentiments compare between African countries an
 **Market Impact Analysis:** Correlation metrics between major news sentiments and stock market indices or currency values in Africa.
 
 
+## Approach
+
+Topic Classification: The dataset has been classified into various topics using different clustering methods (KNN, Hierarchical, GMM). Each method reveals different thematic focuses, such as Environment, Technology, Politics, Finance, and Entertainment.
+
+Sentiment Analysis: Sentiments of the news articles have been analyzed and categorized (e.g., negative, positive, very positive). This offers insights into the general sentiment around various topics.
+
+
+
 ## Implementation in the Context of the Project
 
 Data Acquisition: Use NewsAPI to gather finance-related news articles from across Africa.
@@ -61,3 +69,7 @@ Analysis and Classification: Apply NLP techniques for sentiment analysis and top
 Visualization and Reporting: Develop dashboards to visualize trends, sentiments, and other KPIs.
 
 Scalability and Future Extensions: Plan for real-time data processing and integration with financial market data for deeper analysis by using Databricks, PySpark, and other related AWS Services.
+
+## Technologies Used
+
+Python (Pandas, NumPy, scikit-learn, Gensim, NLTK, Torch, etc), Jupyter Notebook, Matplotlib, Databricks, AWS (S3, EC2, RDS).
