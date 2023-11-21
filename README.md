@@ -15,11 +15,7 @@ PAFI aims to provide comprehensive financial analytics and insights across vario
 ## Challenges Addressed
 Volume of Data: Handling and analyzing the large volume of news data generated daily across multiple countries and sources.
 
-Real-Time Analysis: Providing up-to-date insights from the latest news, as financial markets are highly dynamic and sensitive to current events.
-
 Sentiment Analysis: Accurately gauging the sentiment of financial news to understand market sentiment.
-
-Language and Regional Variations: Catering to a diverse continent with multiple languages and regional contexts.
 
 Data Reliability and Bias: Ensuring the reliability and objectivity of the news sources and the insights derived from them.
 
